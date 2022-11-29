@@ -3,7 +3,6 @@ Weak attak:
 	- Arreglar la duracion de los frames weak attak (0,1 y 0,2 snap)
 	- Golpear al termino de la animacion weak attak ?
 Player dañado:
-	- Tiempo de Invulnerabilidad (in and out/golpes múltiples)
 	- Barra de vida adaptable (regla de 3 simple/aumentar tamaño de la barra)
 	- Efecto en la barra de vida (parpadear/usar color secundario)
 
